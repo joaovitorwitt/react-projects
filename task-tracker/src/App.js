@@ -24,6 +24,9 @@ export default function App() {
     },
   ]);
 
+  // Delete tasks
+  function deleteTask() {}
+
   return (
     <div className="container">
       <Header title="Task Tracker"></Header>
